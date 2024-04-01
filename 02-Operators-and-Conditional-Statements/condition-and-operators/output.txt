@@ -1,6 +1,1 @@
-15 - sum	
-5 - substract	
-50 - multiply	
-2 - divide	
-3.33 - float divide	
-0 - modulus	
+Burger khabo
