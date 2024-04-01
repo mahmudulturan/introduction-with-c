@@ -1,1 +1,7 @@
-Hello
+Special Charecters 
+ to give a new line 
+Special Charecters 	 to give a tab space 
+Special Charecters \ to write back slash 
+Special Charecters ' to write a single cotation 
+Special Charecters " to write a double cotation 
+Special Charecters % to write a parcent 
