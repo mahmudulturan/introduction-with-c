@@ -4,3 +4,6 @@
 4 - Even 
 5 - Odd 
 6 - Even 
+8 - Even 
+9 - Odd 
+10 - Even 
