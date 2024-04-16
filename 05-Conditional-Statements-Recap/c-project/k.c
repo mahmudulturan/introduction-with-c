@@ -19,15 +19,15 @@ int main()
     // maximum
     if (A >= B && A >= C)
     {
-        printf("%d ", A);
+        printf("%d\n", A);
     }
     else if (B >= A && B >= C)
     {
-        printf("%d ", B);
+        printf("%d\n", B);
     }
     else
     {
-        printf("%d ", C);
+        printf("%d\n", C);
     }
 
     return 0;
