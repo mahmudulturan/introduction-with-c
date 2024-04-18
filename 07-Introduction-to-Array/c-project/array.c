@@ -10,5 +10,10 @@ int main()
     {
         printf("%d\n", arr[i]);
     }
+    int arr2[3] = {15, 785};
+    for (int i = 0; i < 3; i++) // show output
+    {
+        printf("%d ", arr2[i]); // 15 785 0
+    }
     return 0;
 }
