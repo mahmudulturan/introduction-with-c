@@ -27,7 +27,7 @@ int main()
         result[i] = b[j];
         i++;
     }
-
+    printf("%d ", b[65]);
     for (int i = 0; i < n + m; i++)
     {
         printf("%d ", result[i]);
