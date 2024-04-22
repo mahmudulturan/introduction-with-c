@@ -1,2 +1,1 @@
-hello ami maruf
-hello ami
+10
