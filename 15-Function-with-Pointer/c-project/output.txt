@@ -1,4 +1,1 @@
-0061FF18
-0061FF18
-value of x - 4
-value of x after reasign by dereference - 5
+4
