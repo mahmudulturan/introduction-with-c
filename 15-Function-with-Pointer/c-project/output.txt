@@ -1,4 +1,6 @@
-address of 0 no. index - 0061FF0C
-address of 0 no. index - 0061FF0C
-first value of the array - 2
-second value of the array - 4
+3
+4
+5
+2
+1
+size of array - 5
