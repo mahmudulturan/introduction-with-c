@@ -38,6 +38,7 @@ int main()
             s++;
             p -= 2;
         }
+        
         printf("\n");
     }
 
