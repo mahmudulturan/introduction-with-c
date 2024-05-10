@@ -1,8 +1,9 @@
 #include <stdio.h>
 int main()
 {
-    int a, b, k;
-    scanf("%d %d %d", &a, &b, &k);
+    int a, b;
+    long long int k;
+    scanf("%d %d %lld", &a, &b, &k);
     if (a % k == 0 && b % k == 0)
     {
         printf("Both");
