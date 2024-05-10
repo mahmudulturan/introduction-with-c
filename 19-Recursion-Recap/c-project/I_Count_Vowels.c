@@ -11,15 +11,17 @@ int countVowels(char str[], int i)
 
     if (str[i] >= 'A' && str[i] <= 'Z')
     {
-        str[i] = str[i] - 32;
+        str[i] = str[i] + 32;
     }
 
     if (str[i] == 'a' || str[i] == 'e' || str[i] == 'i' || str[i] == 'o' || str[i] == 'u')
     {
         return cnt + 1;
     }
-
-    return cnt;
+    else
+    {
+        return cnt;
+    }
 }
 
 int main()
@@ -30,3 +32,4 @@ int main()
     printf("%d", count);
     return 0;
 }
+
